@@ -1,4 +1,6 @@
 HW1 - ...
+
 HW2 - ...
+
 HW3 - Работа с базой данных SQL Light 
 Использовался датасет с сайта https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
